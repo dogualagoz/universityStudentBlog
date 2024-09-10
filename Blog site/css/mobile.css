@@ -1,0 +1,17 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    overflow: hidden;
+    height: 90px;
+}
+#successes .items{
+    flex-direction: column;
+    
+}
+#successes .items .item{
+    width: 100%;
+}
+.Photos .photo {
+    flex-direction: column;
+}
